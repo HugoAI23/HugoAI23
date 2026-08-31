@@ -1,5 +1,5 @@
 ## Hi everyone 🤠
-<img src="https://media1.tenor.com/m/ylv4WRZNlZsAAAAC/the-wolf-jules-winnfield.gif" alt="The Wolf - Jules Winnfield Pulp Fiction](https://media1.tenor.com/m/Qk-fx-PtLG4AAAAd/problem-solve.gif" width="500">
+<img src="https://media1.tenor.com/m/Qk-fx-PtLG4AAAAd/problem-solve.gif" width="500">
 
 
 
