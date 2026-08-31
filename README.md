@@ -11,8 +11,7 @@
 - 🔧 &nbsp; Git | GitHub | VS Code | PyCharm
 
   
-href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html, css, js, git, github, vscode, antigravity, bash,tailwind, jupyterlab,claude code perline=12"
+href="https://skillicons.dev/icons?i=py,js,html,css,tailwind,git,github,vscode,pycharm" 
 <br />
 
 <p align="center">
