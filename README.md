@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/ylv4WRZNlZsAAAAC/the-wolf-jules-winnfield.gif" width="500">
+</p>
