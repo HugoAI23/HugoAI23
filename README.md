@@ -3,6 +3,15 @@
   <img src="https://media1.tenor.com/m/Qk-fx-PtLG4AAAAd/problem-solve.gif" width="500">
 </p>
 
+<h2> Chemist 🧪 and Artificial Intelligence Engineer 🤖</h2>
+
+<h3> What am I working? 💻🤓</h3>
+
+- I am doing a data analysis and ML for Call of Duty League 🎮
+- I am learning how to build systems 🛠️
+
+<br />
+
 <h3>🛠 Tech Stack</h3>
 
 - 🐍 &nbsp; Python | Jupyter
