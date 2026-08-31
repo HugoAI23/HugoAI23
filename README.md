@@ -1,4 +1,4 @@
-<h1>Hi everyone 🤠</h1>
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', Helvetica, Arial, sans-serif;">Hi everyone 🤠</h1>
 <img src="https://media1.tenor.com/m/Qk-fx-PtLG4AAAAd/problem-solve.gif" width="500">
 
 
