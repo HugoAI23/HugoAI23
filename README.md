@@ -42,3 +42,7 @@
 <!--- stats (end) -->
 </p>
 
+
+<p align="center">
+  <img src="[https://media1.tenor.com/m/Qk-fx-PtLG4AAAAd/problem-solve.gif](https://y.getyarn.io/d1884d10-4480-4c23-a607-1d0c0ee7a328_text.gif)" width="500">
+</p>
