@@ -11,9 +11,11 @@
 - 🔧 &nbsp; Git | GitHub | VS Code | PyCharm
 
   
-href="https://skillicons.dev/icons?i=py,js,html,css,tailwind,git,github,vscode,pycharm" 
+
 <br />
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ylv4WRZNlZsAAAAC/the-wolf-jules-winnfield.gif" width="500">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,git,github,vscode,pycharm" />
+  </a>
 </p>
